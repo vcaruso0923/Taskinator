@@ -1,2 +1,6 @@
 # Taskinator
-A (simple) Kanban board application
+
+## Overview
+A Kanban App to plan out and keep track of various tasks.
+
+## Link
